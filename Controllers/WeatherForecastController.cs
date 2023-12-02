@@ -8,7 +8,7 @@ namespace azuretestsgJK.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","karthic"
+         "WarmJK", "BalmyJK", "HotJK", "SwelteringJK", "ScorchingJK","karthicJK"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
